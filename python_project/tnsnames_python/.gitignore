@@ -1,0 +1,14 @@
+*.iml
+out/*
+test/*.log
+*.swp
+.idea/*
+
+*.tokens
+*.class
+tnsnamesLexer.java
+tnsnamesParser.java
+tnsnamesBaseListener.java
+tnsnamesListener.java
+tnsnames_checker.jar
+
